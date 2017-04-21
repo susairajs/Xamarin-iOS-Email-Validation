@@ -1,0 +1,9 @@
+/Users/DELPIN/Projects/XamariniOSEmailValidation/XamariniOSEmailValidation/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamariniOSEmailValidation/XamariniOSEmailValidation/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSEmailValidation/XamariniOSEmailValidation/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamariniOSEmailValidation/XamariniOSEmailValidation/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSEmailValidation/XamariniOSEmailValidation/obj/iPhoneSimulator/Debug/optimized/
+/Users/DELPIN/Projects/XamariniOSEmailValidation/XamariniOSEmailValidation/bin/iPhoneSimulator/Debug/XamariniOSEmailValidation.exe.mdb
+/Users/DELPIN/Projects/XamariniOSEmailValidation/XamariniOSEmailValidation/bin/iPhoneSimulator/Debug/XamariniOSEmailValidation.exe
+/Users/DELPIN/Projects/XamariniOSEmailValidation/XamariniOSEmailValidation/obj/iPhoneSimulator/Debug/XamariniOSEmailValidation.exe
+/Users/DELPIN/Projects/XamariniOSEmailValidation/XamariniOSEmailValidation/obj/iPhoneSimulator/Debug/XamariniOSEmailValidation.exe.mdb

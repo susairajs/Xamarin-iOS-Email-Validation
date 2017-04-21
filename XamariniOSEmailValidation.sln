@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamariniOSEmailValidation", "XamariniOSEmailValidation\XamariniOSEmailValidation.csproj", "{CF0DE85B-9CEA-4453-BC7F-8534860AE03B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF0DE85B-9CEA-4453-BC7F-8534860AE03B}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{CF0DE85B-9CEA-4453-BC7F-8534860AE03B}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{CF0DE85B-9CEA-4453-BC7F-8534860AE03B}.Release|iPhone.ActiveCfg = Release|iPhone
+		{CF0DE85B-9CEA-4453-BC7F-8534860AE03B}.Release|iPhone.Build.0 = Release|iPhone
+		{CF0DE85B-9CEA-4453-BC7F-8534860AE03B}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{CF0DE85B-9CEA-4453-BC7F-8534860AE03B}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{CF0DE85B-9CEA-4453-BC7F-8534860AE03B}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{CF0DE85B-9CEA-4453-BC7F-8534860AE03B}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

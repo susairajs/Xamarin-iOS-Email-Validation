@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{CF0DE85B-9CEA-4453-BC7F-8534860AE03B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamariniOSEmailValidation/ViewController.cs">
+    <Files>
+      <File FileName="XamariniOSEmailValidation/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="XamariniOSEmailValidation/ViewController.cs" Line="22" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamariniOSEmailValidation PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F21228CC-50FA-4F8C-A3A8-6DCEE6BE0337" />
+  <MultiItemStartupConfigurations />
+</Properties>
